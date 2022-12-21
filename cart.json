@@ -1,0 +1,34 @@
+[
+  {
+    "id": 3,
+    "cartId": "ea377fe7-f7bf-49ff-8c27-33398a51f260",
+    "products": [
+      {
+        "id": 1,
+        "productId": "MCO967705850",
+        "title": "Laptop Asus M515da Gris 15.6 , Amd Ryzen 5 3500u  16gb De Ram 1tb Hdd 256gb Ssd, Amd Radeon Rx Vega 8 (ryzen 2000/3000) 1920x1080px Windows 10",
+        "price": 1999900,
+        "stock": 7,
+        "thumbnail": "http://http2.mlstatic.com/D_894333-MLA51165023913_082022-F.jpg"
+      },
+      {
+        "id": 3,
+        "productId": "MCO879442053",
+        "title": "Kit De Teclado Y Mouse Inalámbrico Logitech Mk235 Español De Color Negro",
+        "price": 95000,
+        "stock": 11,
+        "thumbnail": "http://http2.mlstatic.com/D_961801-MLA48377493379_112021-F.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "cartId": "c39e18b1-ca7c-4415-abc0-ff777bb26e9a",
+    "products": []
+  },
+  {
+    "id": 5,
+    "cartId": "9ebfdc50-ceb9-4908-9ea6-3329b5a9a92b",
+    "products": []
+  }
+]
